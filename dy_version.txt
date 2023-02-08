@@ -1,1 +1,1 @@
-1.1 , http://172.16.8.62/blms/windows/dy_update.zip , disable
+1.6 , http://172.16.8.62/blms/windows/dy_update.zip , disable
